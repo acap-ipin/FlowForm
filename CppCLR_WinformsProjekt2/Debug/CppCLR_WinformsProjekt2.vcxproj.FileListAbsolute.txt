@@ -1,0 +1,3 @@
+C:\Users\OpenI\source\repos\CppCLR_WinformsProjekt2\CppCLR_WinformsProjekt2\Debug\CppCLR_WinformsProjekt2.vcxprojAssemblyReference.cache
+C:\Users\OpenI\source\repos\CppCLR_WinformsProjekt2\CppCLR_WinformsProjekt2\Debug\CppCLR_WinformsProjekt2.FlowForm.resources
+C:\Users\OpenI\source\repos\CppCLR_WinformsProjekt2\CppCLR_WinformsProjekt2\Debug\CppCLR_WinformsProjekt2.vcxproj.GenerateResource.cache
